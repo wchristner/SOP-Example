@@ -1,35 +1,41 @@
-# SOP-Example
-SOP Example: Installing MS OpenJDK Software on a Company Computer
+# SOP: Installing Microsoft Build of OpenJDK on Windows
 
-# Technical Writing Portfolio - William Christner
-
-Welcome to my **Technical Writing Portfolio**, showcasing my ability to create clear, professional, and structured documentation for software, hardware, and APIs.
-
----
-
-## Portfolio Contents
-
-### 1. SOPs
-- **[OpenJDK Installation](./SOPs/OpenJDK-Installation/README.md)**
-  - Step-by-step guide for installing OpenJDK on Windows
-  - Includes screenshots, flowcharts, and a PDF version
-- **[API Documentation](./SOPs/API-Documentation/README.md)**
-  - Example of documenting an API with endpoints, request/response examples, and tutorials
-- **[HandMixer Manual](./SOPs/HandMixer-Manual/README.md)**
-  - Rewritten product documentation with diagrams and usage instructions
-- **[Kiosk Wiki](./SOPs/Kiosk-Wiki/README.md)**
-  - Wiki-style documentation for a kiosk project
+## Overview
+This repository contains a Standard Operating Procedure (SOP) for installing the **Microsoft Build of OpenJDK** on Windows systems.  
+It provides IT staff with a structured, repeatable process to ensure consistency, compatibility, and proper configuration for development environments across company computers.
 
 ---
 
-## Skills Demonstrated
-- Writing clear SOPs, user manuals, and API documentation  
-- Creating professional documentation in Markdown and PDF  
-- Adding visual aids (screenshots, flowcharts, diagrams)  
-- Organizing documentation for easy navigation  
-- Version control using GitHub
+## Contents
+- `SOP_Installing_OpenJDK_Windows.docx` – Full SOP document (Word format)
+- `SOP_Installing_OpenJDK_Windows_with_Flowchart.docx` – SOP with embedded flowchart
+- `SOP_OpenJDK_Installation_Flowchart.png` – Flowchart of the installation process
+- `README.md` – Project documentation (this file)
 
 ---
 
-## Notes
-All projects are **original and created for portfolio purposes**. Additional projects will be added to demonstrate a wider range of technical writing skills.
+## SOP Highlights
+- **Purpose:** Ensure a consistent and secure installation of OpenJDK across company-issued Windows computers.  
+- **Scope:** Applies to IT staff installing software for developers and end users.  
+- **Procedure:** Covers verifying requirements, downloading the installer, installation, environment variable setup, verification, documentation, and notification.  
+- **Safety & Compliance:** Only official Microsoft sources are used, with antivirus enabled during installation.  
+- **Troubleshooting:** Common installation errors and their resolutions are included.  
+
+---
+
+## Usage
+1. Download the SOP document titled "SOP_Installing_OpenJDK_Windows" (`.pdf`).
+2. IT staff should follow the SOP step-by-step when performing installations.  
+3. Revision history is included to track updates over time.  
+
+---
+
+## Author
+Prepared by: **William Christner**  
+Version: **1.0**  
+Date: **2025-09-16**
+
+---
+
+## License
+This SOP is provided under the MIT License. Please review and adapt it to your organization’s policies before use.
